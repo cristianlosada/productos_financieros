@@ -101,7 +101,7 @@ La API proporciona los siguientes endpoints para gestionar los productos financi
   - **Body**: Datos de la tarjeta (número de tarjeta, franquicia, cupo aprobado, etc.).
 
 - `POST /movimiento-tarjeta-credito`: Registra un movimiento en una tarjeta de crédito (compra, pago, etc.).
-  - **Body**: Datos del movimiento (monto, tipo de movimiento, etc.).
+  - **Body**: Datos del movimiento (monto, tipo de movimiento, etc.). 
 
 ---
 
